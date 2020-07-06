@@ -6,6 +6,8 @@ Have fun while crunching some numbers!
 
 Dette er en test om Johanne kan se ændringer 
 
+test fra Johanne
+
 ## TODO
 
 - Lav noget Python som kan generere nogle regnestykker og sende disse til html siden 
