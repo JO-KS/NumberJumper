@@ -6,7 +6,7 @@ Have fun while crunching some numbers!
 
 Dette er en test om Johanne kan se ændringer 
 
-test fra Johanne
+
 
 ## TODO
 
